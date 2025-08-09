@@ -281,6 +281,13 @@
     "id": "dataWynncraftPlayer",
     "url": "https://api.wynncraft.com/v3/player/%{username}"
   },
+   {
+    "arguments": [
+      "username"
+    ],
+    "id": "dataWynncraftPlayerFull",
+    "url": "https://api.wynncraft.com/v3/player/%{username}"
+  },
   {
     "id": "dataWynncraftTerritoryListV3",
     "url": "https://api.wynncraft.com/v3/guild/list/territory"
