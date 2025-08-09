@@ -286,7 +286,7 @@
       "username"
     ],
     "id": "dataWynncraftPlayerFull",
-    "url": "https://api.wynncraft.com/v3/player/%{username}"
+    "url": "https://api.wynncraft.com/v3/player/%{username}?fullResult"
   },
   {
     "id": "dataWynncraftTerritoryListV3",
